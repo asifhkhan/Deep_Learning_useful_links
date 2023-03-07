@@ -60,6 +60,9 @@
 
 #### :point_right:[deeplizard](https://deeplizard.com/resource/pavq7noze2)
 
+#### :point_right:[Learning Rate](https://hasty.ai/docs/mp-wiki/scheduler/overview-of-learning-rate-schedulers-in-ml)
+
+
 
 ### :eyes:: Geometric Visualization links  :eyes:
 
