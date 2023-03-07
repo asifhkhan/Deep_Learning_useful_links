@@ -63,6 +63,8 @@
 #### :point_right:[Learning Rate](https://hasty.ai/docs/mp-wiki/scheduler/overview-of-learning-rate-schedulers-in-ml)
 
 
+#### :point_right:[Co Adaption](https://medium.com/@lipeng2/dropout-is-so-important-e517bbe3ffcc#:~:text=So%20in%20neural%20network%2C%20co,what%20might%20happen%20with%20overfitting.)
+
 
 ### :eyes:: Geometric Visualization links  :eyes:
 
